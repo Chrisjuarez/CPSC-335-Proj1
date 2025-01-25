@@ -50,3 +50,5 @@ print(wildlife_monitoring(V1, movements1))  # Output: Loop detected
 V2 = 5  # Number of unique locations
 movements2 = [(0, 1), (1, 2), (2, 3), (3, 4), (4, 5)]
 print(wildlife_monitoring(V2, movements2))  # Output: No loop detected
+
+# Test commit 
